@@ -1,0 +1,21 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-display {
+    border: 1px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 2px 7px;
+}
+
+.topic {
+    position: relative;
+    left: 30px;
+}
+
+.time {
+    flex-grow: 1;
+    text-align: right;
+    color: darkgray;
+}
